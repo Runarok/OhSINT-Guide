@@ -125,9 +125,6 @@ Digital Forensics Examiners collect, preserve, and analyse digital evidence to s
 * Investigate artifacts to understand incident scope
 * Produce clear, documented findings for stakeholders
 
-**Learning Paths:**
-*(Not provided in the room — you can add relevant TryHackMe paths if available.)*
-
 **Career Guides:**
 
 * [A Day in the Life of a Digital Forensic Analyst – Magnet Forensics](https://www.magnetforensics.com/blog/a-day-in-the-life-of-a-forensic-analyst/)
