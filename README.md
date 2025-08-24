@@ -1,16 +1,20 @@
 # tryhackme-writeups
 
-My evolving notes and walkthroughs for the **TryHackMe OhSINT** lab — every step, command, and insight I explored is documented here.
+My evolving notes and walkthroughs for the **TryHackMe** rooms — steps, command, and insight I explored is documented here.
 
 ---
 
 ## 📌 Update
 
-I spent a few days exploring [TryHackMe](https://tryhackme.com/), and while it's a great platform, I’ve run into quite a few **premium content restrictions**. There are free labs available, but I found it a bit difficult to discover and access the ones that truly matched what I was looking for.
+When I first started exploring [TryHackMe](https://tryhackme.com/), I found it a bit frustrating trying to discover solid free rooms — most of what I came across seemed to be behind a premium paywall.
 
-As a result, I'm putting this repository **on hiatus**.
+Later on, I came across this excellent curated list of free rooms (over 350+!):
 
-I may return to it occasionally — either when I feel like it, want to revisit specific content, or once I’m in a better financial position to justify investing in the premium version. Until then, my focus will shift to **other points of interest**.
+> 🔗 [github.com/winterrdog/tryhackme-free-rooms](https://github.com/winterrdog/tryhackme-free-rooms)
+
+That definitely solved the content discovery issue. However, at the moment, I’m just not feeling very motivated to keep going with TryHackMe rooms. So for now, I’m putting this repository **on pause**.
+
+I might come back to it later when the mood strikes or when I’m more interested in diving into this kind of hands-on learning again.
 
 ---
 
